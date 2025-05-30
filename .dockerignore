@@ -1,0 +1,6 @@
+/var/
+/vendor/
+/.gitignore
+/docker-compose.yml
+/Makefile
+/README.md
